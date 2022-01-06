@@ -1,0 +1,15 @@
+.mainContainer {
+  position: absolute;
+  top: 20%;
+  left: 30vw;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  width: 40vw;
+}
+
+.todoList {
+  margin-top: 6vh;
+  width: 100%;
+  text-align: center;
+}

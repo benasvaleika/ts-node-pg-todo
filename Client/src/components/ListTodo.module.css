@@ -1,0 +1,8 @@
+.indivItem {
+  display: inline-flexbox;
+  justify-content: space-between;
+  width: 42vw;
+  margin: 0;
+  text-align: left;
+  margin-left: 1.5vw;
+}

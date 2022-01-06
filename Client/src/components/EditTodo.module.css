@@ -1,0 +1,36 @@
+.modalBackground {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.4);
+  width: 100vw;
+  height: 100vh;
+  left: -30vw;
+  top: -20vh;
+  margin: 0;
+  padding: 0;
+}
+
+.modalCenterContainer {
+  position: absolute;
+  background-color: honeydew;
+  width: 40vw;
+  height: 30vh;
+  left: 50vw;
+  top: 40vh;
+  transform: translate(-50%, -50%);
+  border-radius: 4px;
+  color: black;
+}
+
+.modalInput {
+  position: absolute;
+  display: grid;
+  width: 80%;
+  left: 10%;
+  top: 10%;
+}
+
+.modalButtons {
+  position: absolute;
+  right: 5%;
+  bottom: 10%;
+}
